@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "31310430365",
+    "firebase_url": "https://smartr-47d18.firebaseio.com",
+    "project_id": "smartr-47d18",
+    "storage_bucket": "smartr-47d18.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:31310430365:android:02ffcb7d212bb030",
+        "android_client_info": {
+          "package_name": "com.smartrapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "31310430365-fof4m599knuptrsv6gnf9gl5uvmhucap.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQfmU-IQCOAN0s05jXI1LmZaWDEZEJ544"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
